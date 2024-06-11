@@ -1,4 +1,4 @@
-`score:964` `solve_count:2`
+`score:964` `solve_count:2`    
 a stack machine without memory, loop or branch.
 
 **Tips: run_rkt.zo of Attachment is same as sort (stack machine)**

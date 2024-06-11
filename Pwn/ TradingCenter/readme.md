@@ -1,4 +1,4 @@
-`score:836` `solve_count:4`
+`score:836` `solve_count:4`    
 Welcome to the Ransomware Decryptor Trading Center, where you can buy what you want, but only if you have the money.
 
 And I have opened some confidential files in the file manager and listed the process IDs of the files and manager in the help document. If you need them, please contact the administrator to purchase.

@@ -1,4 +1,4 @@
-`score:1000` `solve_count:1`
+`score:1000` `solve_count:1`    
 crazyman is a malware analyst and we found this strange file called `rules` on his computer and `README.md` that says:
 ```
 ❯ yr scan -C rules flag.txt

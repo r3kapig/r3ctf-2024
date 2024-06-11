@@ -1,4 +1,4 @@
-`score:1000` `solve_count:0`
+`score:1000` `solve_count:0`    
 "We are becoming more and more open now!" They said. "Our documents, including those outside the sandbox, are available for everyone to read!" 
 
 But there are still many things that are deliberately hidden...

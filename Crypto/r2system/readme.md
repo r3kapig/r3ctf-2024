@@ -1,4 +1,4 @@
-`score:703` `solve_count:11`
+`score:703` `solve_count:11`    
 An fixed version of r1system.Modified the following content:
 
 ```python

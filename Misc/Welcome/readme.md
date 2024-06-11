@@ -1,4 +1,4 @@
-`score:100` `solve_count:245`
+`score:100` `solve_count:245`    
 check our discord
 
 https://discord.gg/zU64ekBsgA

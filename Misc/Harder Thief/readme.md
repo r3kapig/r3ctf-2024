@@ -1,4 +1,4 @@
-`score:1000` `solve_count:1`
+`score:1000` `solve_count:1`    
 maybe Thief is too easy? 
 
 Try this harder one!

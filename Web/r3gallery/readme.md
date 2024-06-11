@@ -1,4 +1,4 @@
-`score:1000` `solve_count:1`
+`score:1000` `solve_count:1`    
 gallery~ gallery~ gallery~
 
 chal:`http://<URL>:<PORT>/gallery`

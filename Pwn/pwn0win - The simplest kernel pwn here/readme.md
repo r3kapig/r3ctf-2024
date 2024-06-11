@@ -1,4 +1,4 @@
-`score:1000` `solve_count:0`
+`score:1000` `solve_count:0`    
 This must be the simplest kernel pwn challenge here, I promise you.
 
 **Please pack your exploit into a regular and installable IPA file. And open a ticket to start challenge.** You will have 10 minutes to pwn the challenge. During the attempt, you can request any form of restart or environment reset.

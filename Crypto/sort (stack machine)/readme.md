@@ -1,4 +1,4 @@
-`score:930` `solve_count:3`
+`score:930` `solve_count:3`    
 a stack machine without memory, loop or branch.
 
 **(Tips: file run_rkt.zo is same as stack machine)**

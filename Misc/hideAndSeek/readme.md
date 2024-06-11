@@ -1,4 +1,4 @@
-`score:340` `solve_count:34`
+`score:340` `solve_count:34`    
 Ben is a superpower who loves playing hide and seek. He can teleport to anywhere to no one can find him, but he seems unaware that his ability only works within a certain range 
 
 Rules: 

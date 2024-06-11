@@ -1,4 +1,4 @@
-`score:1000` `solve_count:0`
+`score:1000` `solve_count:0`    
 After the investigation of the previous question, you may have discovered the hacker's intrusion, but it seems that he has launched a ransomware. Some important information of the company has been encrypted. Can you help the company recover it?
 
 This challenge uses the same attachment as TPA 03 - 💻, and the challenge covers elements of **forensics**, **reverse engineering**, and **cryptography**. You can gather your friends to solve it together

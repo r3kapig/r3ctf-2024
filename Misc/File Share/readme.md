@@ -1,4 +1,4 @@
-`score:1000` `solve_count:1`
+`score:1000` `solve_count:1`    
 I have a file sharing service built with Kubernetes,  I thought there were no secrets in it.
 
 nc 47.242.249.168 8888

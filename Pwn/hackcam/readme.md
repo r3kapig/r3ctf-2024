@@ -1,4 +1,4 @@
-`score:1000` `solve_count:0`
+`score:1000` `solve_count:0`    
 The secret of the cat! There is a security vulnerability in our home camera used to monitor cats. Your task is to exploit the vulnerability, find the flag inside the camera, and reveal the ultimate secret of the cat.
 
 There is only one service in the device.

@@ -1,4 +1,4 @@
-`score:458` `solve_count:24`
+`score:458` `solve_count:24`    
 After hard training, Ben greatly expanded his teleportation range and now he has also learned how become invisible. Surely no one will be able to find him, right?
 
 Rules:
